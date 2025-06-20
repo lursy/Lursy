@@ -1,11 +1,7 @@
 <h1 align="center">Lursy</h1>
 <div align="center" background="#222">
-  <div>
-    <img src="nyan.gif" heigth="50" width="400" />
-  </div>
   <p>
-    Olá, meu nome é Matheus, tenho 19 anos e estou cursando o ensino técnico no
-    Instituto Federal do sul de Minas.
+    Olá, meu nome é Matheus, sou de 2005 e trabalho como desenvolvedor backend.
     Estudo programação desde 2020, iniciando com python e apredendo do basico de
     outras linguagens como c++, ts, php, etc...
     Sou apaixonado por estudar novas linguagens, otimização e algoritmos, além
