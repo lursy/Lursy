@@ -1,73 +1,39 @@
-<h1 align="center">Lursy</h1>
-<div align="center" background="#222">
-  <p>
-    Olá, meu nome é Matheus, sou de 2005 e trabalho como desenvolvedor backend.
-    Estudo programação desde 2020, iniciando com python e apredendo do basico de
-    outras linguagens como c++, ts, php, etc...
-    Sou apaixonado por estudar novas linguagens, otimização e algoritmos, além
-    de participar de maratonas de programação. Sinto que essa é uma das coisas
-    que nunca vão perder o sentido pra mim, e isso só me deixa mais ansioso para
-    ver até onde vou chegar!
-  </p>
-</div>
+# Olá, eu sou o lursy! 👋
 
-<hr />
+Desenvolvedor Fullstack apaixonado por arquitetura de software, performance e automação. Foco na criação de soluções escaláveis e sistemas robustos.
 
-<div style="display: inline_block" align="center">
-  <br />
-  <img
-    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&logo=php&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  />
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  />
-</div>
+<details><summary>🛠️ Sobre Mim</summary>
+ 
+  
+- 👨‍💻 Atualmente trabalhando como Desenvolvedor.
+- 🤖 Especialista em ecossistema Discord (bots de alta performance, sharding e operações atômicas).
 
-<div align="center">
-  <a href="https://github.com/Lursy">
-    <img src="https://komarev.com/ghpvc/?username=Lursy&color=blueviolet" />
-    <img src="https://shields.io/github/stars/Lursy?color=f22" />
-    <img src="https://shields.io/github/followers/Lursy?label=Follow" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
-    <img
-      src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw"
-    />
-  </a>
-</div>
+</details>
 
-<div align="center">
-  <table align="center" width="95%" border="0">
-    <tr>
-      <td>
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api/?username=Lursy&show_icons=true&title_color=ffe&icon_color=30ff99&text_color=9f5&bg_color=000&hide_border=true&locale=pt-br"
-        width="450"/>
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=fffffe&icon_color=4CAF50&text_color=A7f5AA&bg_color=000&locale=pt-br" width="330"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+ 
+<details><summary>🚀 Principais tecnologias</summary> 
+ 
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+ 
+<details> <summary>📫 Como me encontrar</summary>
+ 
+  
+  - **Discord:** @lursy
+
+</details> 
+ 
+   
+![stars](https://shields.io/github/stars/Lursy?color=f22)
+![follows](https://shields.io/github/followers/Lursy?label=Follow)
+![views](https://komarev.com/ghpvc/?username=Lursy&color=blueviolet)
+  
