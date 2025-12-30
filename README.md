@@ -31,9 +31,15 @@ Desenvolvedor Fullstack apaixonado por arquitetura de software, performance e au
   - **Discord:** @lursy
 
 </details> 
- 
-   
-![stars](https://shields.io/github/stars/Lursy?color=f22)
-![follows](https://shields.io/github/followers/Lursy?label=Follow)
-![views](https://komarev.com/ghpvc/?username=Lursy&color=blueviolet)
+
+
+<div style="display: inline_block" align="center">
+ <img src="./line.gif"/>
+</div>
+
+<div style="display: inline_block" align="center">
+ <img src="https://shields.io/github/stars/Lursy?color=f22"/>
+ <img src="https://shields.io/github/followers/Lursy?label=Follow"/>
+ <img src="https://komarev.com/ghpvc/?username=Lursy&color=blueviolet"/>
   
+</div>
